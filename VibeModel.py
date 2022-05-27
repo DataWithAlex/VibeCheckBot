@@ -18,6 +18,8 @@ nltk.download('averaged_perceptron_tagger')
 nltk.download('stopwords')
 stop_words = stopwords.words('english')
 
+
+
 def remove_noise(tweet_tokens, stop_words = ()):
 
     cleaned_tokens = []
@@ -86,10 +88,10 @@ def create_vibe_model():
     positive_tokens_for_model = get_tweets_for_model(positive_cleaned_tokens_list)
     negative_tokens_for_model = get_tweets_for_model(negative_cleaned_tokens_list)
 
-    positive_dataset = [(tweet_dict, "Positive")
+    positive_dataset = [(tweet_dict, "This tweet passes the vibe check")
                          for tweet_dict in positive_tokens_for_model]
 
-    negative_dataset = [(tweet_dict, "Negative")
+    negative_dataset = [(tweet_dict, "This tweet fails the vibe check")
                          for tweet_dict in negative_tokens_for_model]
 
     dataset = positive_dataset + negative_dataset

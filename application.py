@@ -1,5 +1,5 @@
 
-# %pip install flask
+
 import flask
 from flask import Flask
 import VibeCheckBot
@@ -7,10 +7,6 @@ import os
 
 import atexit
 from apscheduler.schedulers.background import BackgroundScheduler
-
-# data = open("C:\Users\alexs\DataWithAlex_Github\Twitter\VibeCheckBot\tweet_ID.txt","r")
-
-#open(r'C:\Users\alexs\DataWithAlex_Github\Twitter\VibeCheckBot\tweet_ID.txt')
 
 
 def job():
