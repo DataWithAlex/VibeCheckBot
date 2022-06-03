@@ -51,6 +51,7 @@ def respondToTweet():
             try:
 
                 x = VibeModel.get_vibe(tweet.text, vibe=vibe)
+                print("Posted Tweet" + x)
                 client.create_tweet(in_reply_to_tweet_id = new_id, text = x)
 
             except:
@@ -65,3 +66,15 @@ def main():
 # __name__
 if __name__=="__main__":
     main()
+
+
+    ### THIS IS HOW TO GET ORIGINAL TWEET THAT VIBE BOT REPLIED TO
+    # alex = client.get_user(username='VibeCheckBot')
+   #  alex_id = alex.data.id
+
+    # tweets = client.get_users_mentions(id=alex_id, expansions=['referenced_tweets.id'] )
+
+    # tweet = tweets.data[0]
+    # tweet_tiny = tweet.referenced_tweets
+
+    # tweet_tiny[0]["id"]

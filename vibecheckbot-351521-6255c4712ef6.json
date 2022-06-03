@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vibecheckbot-351521",
+  "private_key_id": "6255c4712ef61f9a3d8e3aba66491c3a4222ea73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTYeRqKHuPUQWN\nZ1ZBtw1UINf1kxITERLYgR7Jh0qrm/Co/0OB6IatVjlN28f4jGmQQU1RevfqKF0Y\nk7ajjLVbcQIwCY3m2gM68qy4NMfWJB3dvkYcUqLUcjql5h5u3h+myiJKiv4Dc7sw\n26yN3BWlkYlbFKQ2lveEP1vEfOPjnnaX8BySwJ+WFziYy+MLhThiAW2knhcxyCEf\nU/9UF6rvrWcugOFx2FMk9ZWwIiD8RrS6IyfRvgQFOyTJM0vsLXYvpcUMwMuxIcX1\np3+U4s3A3hnchxFjquNY9WS/MZANnbgIV9QZl1AIIcXel1of//kWu16RxwMj1af9\n4RweK28dAgMBAAECggEACfBSinQjbPU+RhxfXTweantyhM1/rQh8OFxwuo9kkjEI\naCUapNKM7nh/kcgN8q1pWwCEWcfMmx5QtN0VNm9BNaLnzlx+lMBD8oA19JAen8q8\nttzjdnp+H4x6dwCPMdPJ16IO8O7xlUMDLxbJSqG6Vfl8BUfdkQ7aLzFkm1n+tjU5\nwAh75XKlPnT/l58+gPztxP9x9O/v4d1n/UZH9ooHX6UuoinVLNuV4vpYjJ+pq3mV\n8j8PPThCL8rEs/OcIhpFIi+zpEUpu/xytrliLFXJFIklVvws9gTCwHA1PVz7p0kD\nS6Ehyg0lxfVmddu5B5wtFtVFmQ1Jgzjio6KZAS41sQKBgQDEfqO5j1ncdXeeWLw3\ny3/KqFyhDq+H0v/PbRHRAAkun2W8iZrDuUkxbGkzioBwKfOYDJrURVcsBlhzA7zZ\nVc7wmfgNkoCJqld0toHDlkAZl9UBIoltk9qTIegkPaac2TJ9dJRLWLTY+OmEm7o9\nfOvui5CqBUmbvKuuZqRtZVNciQKBgQDAA8trrVKBm7ND5+iewPdlVI1QK1sX2m+W\nGGw4iJhaNu86Tq3ovMXFGFBmfj6mlv6alnpeBEciman8bI75VnvCo+ii8dlETlE2\nnr9FUorfWpPOMsOD4kABmWHIifyn8cucjJ1AGtEn1zme8KhKaFSO5uY2fClhO8FI\nip/mbgzg9QKBgFTGWnbtfRSbbY9Ys2PTHYBe4Q/vmRWdmBZy9TPZsxx1Utxj9eyp\nnQWAw2akQ8OgpeMc1RPuEq0A09pTa3/NAKpXk2ivo1tBrdfCAfxTb7ZbBmAl+WrY\nVn4SK+iu3JphLuJnkK9tRyExSvaWhWSP5+6UMkbYXyic3ukwiZJVHAEZAoGANqgd\n3F2u0aPfaGH4DlCBW3+w5fQhbu3Hu6LiE0mWjH98o01IJaquZQchw7sF3Ge4u4o/\n9Mkk8o1pHKhOHl1mxyXfD5rmLJJafcC8U2BGlYNz9Urv6neZnprpgar9l1S1j69b\nB6daiAu0pDB+xwdhonfJahL3uGzI/PwwvefvlI0CgYEAjOJZzYSvMpOZbIOibOt7\nNhelzIgI+OMZUgQ8+g46DuuIGtYTwHPhVhZGIUgNCnH6lxAcvCDo5crLHSItxvOi\nhJ1ns1BWHC7UNjETkjnJdOeB6eXsIIzhQGFZPUw5xobf0ccwD9iO/lklho9/u0Zt\nFWTCQfPLcB2NLVRaZPYercg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datawithalex@vibecheckbot-351521.iam.gserviceaccount.com",
+  "client_id": "118247432353290443717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datawithalex%40vibecheckbot-351521.iam.gserviceaccount.com"
+}
